@@ -1,9 +1,14 @@
 import React from 'react'
+import Header from './components/header/Header'
+import Main from './components/main/Main'
+import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
     <div>
-      <h1>New Project</h1>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   )
 }

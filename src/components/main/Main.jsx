@@ -1,7 +1,7 @@
 import React from 'react'
 import Hero from '../hero/Hero'
-import Products from '../products/products'
 import { PRODUCTS } from '../../static'
+import Products from '../products/Products'
 
 const Main = () => {
   return (
